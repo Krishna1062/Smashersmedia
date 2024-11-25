@@ -1,0 +1,422 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Samantha Chery",
+        "title": "Kendrick Lamar surprise drops new album, ‘GNX’ - The Washington Post",
+        "description": "Capping a standout year, the Pulitzer-winning rapper dropped a new album on the world with zero warning.",
+        "url": "https://www.washingtonpost.com/style/2024/11/22/kendrick-lamar-gnx-new-album-released-streaming/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WGTJZT5ICJHTFOC6PFBX4QFWNU.jpg&w=1440",
+        "publishedAt": "2024-11-23T01:34:11Z",
+        "content": "Kendrick Lamar decided to pop out and show the world his sixth album, GNX, on Friday sans promotion or warning. Thisafter a highly successful year forthe critically acclaimed artist, which included d… [+105 chars]"
+      },
+      {
+        "source": {
+          "id": "politico",
+          "name": "Politico"
+        },
+        "author": "Lauren Gardner, David Lim",
+        "title": "Trump to nominate Marty Makary to lead FDA - POLITICO",
+        "description": "Makary emerged during the Covid pandemic as a critic of the FDA.",
+        "url": "https://www.politico.com/news/2024/11/22/marty-makary-fda-trump-administration-00191380",
+        "urlToImage": "https://static.politico.com/33/28/3d74e41b494392eb9dd2475371e6/fecal-drug-38849.jpg",
+        "publishedAt": "2024-11-23T01:31:08Z",
+        "content": "Makary emerged during the Covid pandemic as a critic of the FDA first on how long it took the agency to review data leading up to its approval of the Pfizer-BioNTech vaccine, and then for not conside… [+3473 chars]"
+      },
+      {
+        "source": {
+          "id": "politico",
+          "name": "Politico"
+        },
+        "author": "Katherine Tully-McManus",
+        "title": "Trump says Russell Vought will return as OMB director - POLITICO",
+        "description": "Vought was a prominent contributor to the Heritage Foundation’s Project 2025.",
+        "url": "https://www.politico.com/news/2024/11/22/russell-vought-trump-omb-pick-00191191",
+        "urlToImage": "https://static.politico.com/b0/a2/9049379d4490801146b933ca9c91/trump-59659.jpg",
+        "publishedAt": "2024-11-23T01:20:03Z",
+        "content": "Trump praised him as an aggressive cost cutter and deregulator who will help us implement our America First Agenda across all Agencies. \r\nVought played a significant role in Heritages Project 2025, w… [+2389 chars]"
+      },
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": "Brie Stimson",
+        "title": "Trump nominates Rep. Lori Chavez-DeRemer as secretary of labor - Fox News",
+        "description": "President-elect Trump has nominated Congresswoman Lori Chavez-DeRemer for secretary of labor as he continues to form his Cabinet.",
+        "url": "https://www.foxnews.com/politics/trump-nominates-rep-lori-chavez-deremer-secretary-labor",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/11/lori-chavez-deremer_01.jpg",
+        "publishedAt": "2024-11-23T00:49:02Z",
+        "content": "President-elect Trump announced on Friday he is nominating Rep. Lori Chavez-DeRemer, R-Ore., for secretary of labor. \r\n\"I am proud to hereby nominate Congresswoman Lori Chavez-DeRemer, from the Great… [+2878 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "PEOPLE"
+        },
+        "author": "https://www.facebook.com/peoplemag",
+        "title": "Kylie Kelce Pregnant, Reveals She and Husband Jason Kelce Expecting Fourth Daughter - PEOPLE",
+        "description": "Kylie Kelce announced on Friday, Nov. 22, that she is pregnant with her and Jason Kelce's fourth child. The couple are expecting their fourth girl.",
+        "url": "https://people.com/jason-and-kylie-kelce-expecting-fourth-child-another-girl-8678330",
+        "urlToImage": "https://people.com/thmb/uOyX5wkpUbJIFrPLzV43Y26Utko=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(714x222:716x224)/donna-kelce-travis-kelce-grandma-best-moments_0604-f510ae584d58466fab047e3d41721cf5.jpg",
+        "publishedAt": "2024-11-22T23:42:54Z",
+        "content": "Jason and Kylie Kelce just announced they're expecting another girl!\r\nThe former NFL star, 36, and his wife, 32, announced that they're expecting their fourth child, and fourth daughter, in an Instag… [+2517 chars]"
+      },
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Lena H. Sun",
+        "title": "First bird flu case in a child in the U.S. confirmed in California - The Washington Post",
+        "description": "The child had mild symptoms and is recovering. No other people have become infected, health officials said.",
+        "url": "https://www.washingtonpost.com/health/2024/11/22/bird-flu-first-child-case-california/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5RLQZXCG6HLQUPG732BFWZYWVI.jpg&w=1440",
+        "publishedAt": "2024-11-22T23:33:26Z",
+        "content": "A child in California has tested positive for bird flu, the first case of a child in the United States becoming infected with the H5N1 virus, federal officials said Friday.\r\nThe Centers for Disease C… [+240 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Financial Times"
+        },
+        "author": "Alex Rogers, Antoine Gara, Colby Smith, James Fontanella-Khan",
+        "title": "Donald Trump picks Scott Bessent as Treasury secretary - Financial Times",
+        "description": "Hedge fund manager will be responsible for implementing president-elect’s pledges to cut taxes and raise tariffs",
+        "url": "https://www.ft.com/content/f2a37821-a373-4ee8-8491-1cb49460f17a",
+        "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe5b6d1d5-143a-46f0-b6df-7535625f1e47.jpg?source=next-barrier-page",
+        "publishedAt": "2024-11-22T23:17:14Z",
+        "content": "wasnow 1,950 per 3 months\r\nThe new FT Digital Edition: todays FT, cover to cover on any device. This subscription does not include access to ft.com or the FT App.\r\n\u003Cul\u003E\u003Cli\u003E\u003C/li\u003EGlobal news &amp; anal… [+2667 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "Laos methanol poisonings: Free shots and beer buckets in party town - BBC.com",
+        "description": "Six foreign tourists have died after drinking contaminated alcohol in a remote Laos party town.",
+        "url": "https://www.bbc.com/news/articles/cdxv700qg50o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a872/live/68dec380-a8f8-11ef-bdf5-b7cb2fa86e10.png",
+        "publishedAt": "2024-11-22T23:16:01Z",
+        "content": "Holly Bowles, left, was confirmed to have died on Friday, a day after British lawyer Simone White and Australian Bianca Jones\r\nFor Australian friends Bianca Jones and Holly Bowles, it was their first… [+6116 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hollywood Reporter"
+        },
+        "author": "Beatrice Verhoeven",
+        "title": "‘Wicked’ Director Jon M. Chu on Those Surprise Cameos: “We Had One Day to Do It” - Hollywood Reporter",
+        "description": "The kept-under-wraps cameos appear during the \"One Short Day\" sequence in the upcoming film.",
+        "url": "http://www.hollywoodreporter.com/movies/movie-features/wicked-jon-m-chu-surprise-cameos-1236058481/",
+        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/10/2551_SB_00048-H-2024.jpg?w=1296&h=730&crop=1",
+        "publishedAt": "2024-11-22T23:09:38Z",
+        "content": "[The following story includes major spoilers for Wicked.]\r\nOne short day. That’s, coincidentally, how much time the Wicked filmmakers had to shoot those cameos for the “One Short Day” scene in the fi… [+2831 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Associated Press",
+        "title": "A police chief in Mexico kills himself as troops try to arrest him in a corruption probe - Yahoo! Voices",
+        "description": "The police chief in a small town in central Mexico took his own life Friday as troops closed in to arrest him as part of anticorruption raids that also...",
+        "url": "https://www.yahoo.com/news/police-chief-mexico-kills-himself-214122232.html",
+        "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+        "publishedAt": "2024-11-22T23:01:00Z",
+        "content": "Yahoo is using AI to generate takeaways from this article. This means the info may not always match what's in the article. Reporting mistakes helps us improve the experience.Generate Key Takeaways\r\nM… [+2129 chars]"
+      },
+      {
+        "source": {
+          "id": "ars-technica",
+          "name": "Ars Technica"
+        },
+        "author": "Scharon Harding",
+        "title": "The good, the bad, and the ugly behind the push for more smart displays - Ars Technica",
+        "description": "Opinion: Apple could really change the game here.",
+        "url": "https://arstechnica.com/gadgets/2024/11/the-good-the-bad-and-the-ugly-behind-the-push-for-more-smart-displays/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/echo-show-21-16-9-1152x648.jpg",
+        "publishedAt": "2024-11-22T22:40:26Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "nbc-news",
+          "name": "NBC News"
+        },
+        "author": "Hugh Son, CNBC",
+        "title": "'I have no money': Thousands of Americans see their savings vanish in Synapse fintech crisis - Yahoo Finance",
+        "description": "For 15 years, former Texas schoolteacher Kayla Morris put every dollar she could save into a home for her growing family.",
+        "url": "https://www.nbcnews.com/business/consumer/-no-money-thousands-americans-see-savings-vanish-synapse-fintech-crisi-rcna181419",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-11/241122-zach-jacobs-ew-242p-c5e89e.jpg",
+        "publishedAt": "2024-11-22T22:35:56Z",
+        "content": "For 15 years, former Texas schoolteacher Kayla Morris put every dollar she could save into a home for her growing family.\r\nWhen she and her husband sold the house last year, they stowed away the proc… [+9378 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Minneapolis Star Tribune"
+        },
+        "author": "JONEL ALECCIA, JONEL ALECCIA",
+        "title": "At least 19 people are sick in Minnesota from ground beef tied to E. coli recall - Star Tribune",
+        "description": "At least 19 people in Minnesota have been sickened by E. coli poisoning tied to a national recall of more than 167,000 pounds of potentially tainted ground beef, federal health officials said.",
+        "url": "https://www.startribune.com/at-least-15-people-are-sick-in-minnesota-from-ground-beef-tied-to-e-coli-recall/601185382",
+        "urlToImage": "https://arc.stimg.co/startribunemedia/QIWSBJGJZFBLNIJMW4VRNPQFVI.JPG?&w=1200&ar=1.91:1&fit=crop",
+        "publishedAt": "2024-11-22T22:18:45Z",
+        "content": "At least 19 people in Minnesota have been sickened by E. coli poisoning tied to a national recall of more than 167,000 pounds of potentially tainted ground beef, federal health officials said.\r\nDetro… [+1517 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CBS Sports"
+        },
+        "author": "",
+        "title": "49ers' Brock Purdy out vs. Packers with shoulder injury; Brandon Allen to start at QB in Week 12 - CBS Sports",
+        "description": "San Francisco's injury woes continue",
+        "url": "https://www.cbssports.com/nfl/news/49ers-brock-purdy-out-vs-packers-with-shoulder-injury-brandon-allen-to-start-at-qb-in-week-12/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/11/22/0474bbd9-ebc7-4319-a90f-70cc718bb942/thumbnail/1200x675/c2434fcb7c855b3cc93f61bee7edabb5/purdy-g.jpg",
+        "publishedAt": "2024-11-22T22:17:00Z",
+        "content": "The San Francisco 49ers have battled injuries to some of their best weapons this season, and that trend continued this week, with quarterback Brock Purdynursing a shoulder issue ahead of Week 12. 49e… [+1559 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "[Removed]"
+        },
+        "author": null,
+        "title": "[Removed]",
+        "description": "[Removed]",
+        "url": "https://removed.com",
+        "urlToImage": null,
+        "publishedAt": "2024-11-22T22:07:37Z",
+        "content": "[Removed]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "[Removed]"
+        },
+        "author": null,
+        "title": "[Removed]",
+        "description": "[Removed]",
+        "url": "https://removed.com",
+        "urlToImage": null,
+        "publishedAt": "2024-11-22T22:02:00Z",
+        "content": "[Removed]"
+      },
+      {
+        "source": {
+          "id": "usa-today",
+          "name": "USA Today"
+        },
+        "author": "John Fennelly",
+        "title": "Saquon Barkley reacts to Giants releasing QB Daniel Jones - Giants Wire",
+        "description": "Philadelphia Eagles RB Saquon Barkley reacted to QB Daniel Jones being released by the New York Giants by praising his close friend.",
+        "url": "https://giantswire.usatoday.com/2024/11/22/saquon-barkley-reacts-new-york-giants-releasing-qb-daniel-jones/",
+        "urlToImage": "https://giantswire.usatoday.com/wp-content/uploads/sites/67/2024/10/2179841429.jpg?w=1024&h=576&crop=1",
+        "publishedAt": "2024-11-22T21:41:00Z",
+        "content": "After hearing the news that his former New York Giants teammate, Daniel Jones, was released by the team on Friday, Philadelphia Eagles star running back Saquon Barkley commented publicly on the move.… [+1525 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "KSDK.com"
+        },
+        "author": "Hunter Bassler",
+        "title": "Restaurant's lettuce wasn't the source of a St. Louis E. coli outbreak, officials say - KSDK.com",
+        "description": "Although the lettuce tested negative, officials said the caterer's salads are still considered a possible source.",
+        "url": "https://www.ksdk.com/article/news/health/st-louis-e-coli-outbreak-lettuce-tests-negative-andres-banquet-center/63-3bbeedfc-4dad-4a9a-ae6f-c437729ba517",
+        "urlToImage": "https://media.ksdk.com/assets/KFMB/images/d3046b5e-3f88-4bcf-814e-1a2b6b1f91f4/d3046b5e-3f88-4bcf-814e-1a2b6b1f91f4_1140x641.jpg",
+        "publishedAt": "2024-11-22T21:02:29Z",
+        "content": "ST. LOUIS COUNTY, Mo. Test results released Friday eliminated a possible source of an E. coli outbreak that sickened more than 100 people in St. Louis County.\r\nTests run by the Missouri Department of… [+1672 chars]"
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": "Abigail Summerville, Johann Cherian",
+        "title": "Wall Street closes higher after business activity data - Reuters",
+        "description": "Wall Street closed higher on Friday, with all three major indexes posting weekly gains, as investors took comfort from data pointing to robust economic activity in the world's biggest economy.",
+        "url": "https://www.reuters.com/markets/us/futures-slip-caution-ahead-business-activity-data-geopolitical-tensions-2024-11-22/",
+        "urlToImage": "https://www.reuters.com/resizer/v2/IOFJRTGBAFK5RI6YG75EQV6H5A.jpg?auth=ad0caccbc0ddcdacb031a093520e9f8e8c4968045fbd2affd948e70dc87faca2&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2024-11-22T21:00:33Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Kaitlan Collins",
+        "title": "Trump expected to offer Kelly Loeffler secretary of Agriculture - CNN",
+        "description": "President-elect Donald Trump is expected to offer Kelly Loeffler the job of secretary of the Department of Agriculture, two people familiar with the matter told CNN.",
+        "url": "https://www.cnn.com/2024/11/22/politics/kelly-loeffler-trump-agriculture-department/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2023-08-18t195151z-82698146-rc2iq2a92dj7-rtrmadp-3-usa-election-republicans.JPG?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-11-22T20:21:00Z",
+        "content": "President-elect Donald Trump is expected to offer Kelly Loeffler the job of secretary of the Department of Agriculture, two people familiar with the matter told CNN.\r\nHe is set to meet with her at Ma… [+3099 chars]"
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": "Suleiman Al-Khalidi",
+        "title": "Gunman shot dead, 3 police injured in shooting near Israeli embassy in Jordan - Reuters",
+        "description": "A gunman was dead and three Jordanian policemen injured after a shooting near the heavily fortified Israeli embassy in the capital Amman in Sunday's early hours, a security source and state media said.",
+        "url": "https://www.reuters.com/world/middle-east/jordanian-police-cordon-off-area-near-israeli-embassy-after-gunshots-heard-2024-11-24/",
+        "urlToImage": "https://www.reuters.com/resizer/v2/4SCURKVUBFJ4ZIR7T7F36UACDI.jpg?auth=20d4f33d78d930227d2a1b4c12be11ce8c6d7808e1c56e9e67121d661f69fae6&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2024-11-24T06:32:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": "MARK KENNEDY",
+        "title": "Chuck Woolery, smooth-talking game show host of 'Love Connection' and 'Scrabble,' dies at 83 - The Associated Press",
+        "description": "Chuck Woolery, the affable, smooth-talking game show host of “Wheel of Fortune,” “Love Connection” and “Scrabble” who later became a right-wing podcaster, skewering liberals and accusing the government of lying about COVID-19, has died. He was 83. Mark Young,…",
+        "url": "https://apnews.com/article/obituary-chuck-woolery-508f37c136ccbc4c8ad48a4fd582674b",
+        "urlToImage": "https://dims.apnews.com/dims4/default/2070eb6/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9c%2F67%2F503a157413c2b231a5df994d931d%2F8b828b222fb540edafc0bb1b58d6f8b8",
+        "publishedAt": "2024-11-24T06:07:00Z",
+        "content": "NEW YORK (AP) Chuck Woolery, the affable, smooth-talking game show host of Wheel of Fortune, Love Connection and Scrabble who later became a right-wing podcaster, skewering liberals and accusing the … [+6968 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Heat.com"
+        },
+        "author": null,
+        "title": "Pool Report on the Double Technical Fouls Issued to Houston’s Dillon Brooks and Portland’s Anfernee Simons, and Technical Foul and Ejection of Houston’s Fred VanVleet in the fourth quarter of tonight’s Portland at Houston game - NBA Official",
+        "description": "Pool Report on the Double Technical Fouls Issued to Houston's Dillon Brooks and Portland's Anfernee Simons, and Technical Foul and Ejection of Houston's Fred VanVleet in the fourth quarter of tonight's Portland at Houston game. The Pool Report interview was c…",
+        "url": "https://official.nba.com/pool-report-on-the-double-technical-fouls-issued-to-houstons-dillon-brooks-and-portlands-anfernee-simons-and-technical-foul-and-ejection-of-houstons-fred-vanvleet-in-the-fourth-quarter-of-tonig/",
+        "urlToImage": null,
+        "publishedAt": "2024-11-24T05:01:07Z",
+        "content": "Pool Report on the Double Technical Fouls Issued to Houston’s Dillon Brooks and Portland’s Anfernee Simons, and Technical Foul and Ejection of Houston’s Fred VanVleet in the fourth quarter of tonight… [+1356 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Financial Times"
+        },
+        "author": "Amanda Chu, Colby Smith",
+        "title": "Top Biden adviser warns of ‘chaos’ if Trump raises tariffs and guts IRA - Financial Times",
+        "description": "White House’s senior economy official says president-elect’s plans will hurt US manufacturing",
+        "url": "https://www.ft.com/content/182e2ea3-456f-4db8-bb87-38e7880c575a",
+        "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7f597653-9c3e-4573-9bd1-9c28f87256e8.jpg?source=next-barrier-page",
+        "publishedAt": "2024-11-24T05:01:02Z",
+        "content": "The new FT Digital Edition: todays FT, cover to cover on any device. This subscription does not include access to ft.com or the FT App.\r\n\u003Cul\u003E\u003Cli\u003E\u003C/li\u003EGlobal news &amp; analysis\u003Cli\u003E\u003C/li\u003EExpert opinion… [+2640 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Deseret News"
+        },
+        "author": "Jay Drew",
+        "title": "How BYU players described ASU's field storming after 28-23 loss - Deseret News",
+        "description": "BYU football: Cougars lament another poor start, say lack of execution in first half doomed them to 28-23 loss to No. 21 Arizona State",
+        "url": "https://www.deseret.com/sports/2024/11/23/byu-cougars-football-asu-chase-roberts-connor-pay-sun-devils/",
+        "urlToImage": "https://www.deseret.com/resizer/v2/5BMRDBYJNNB6LE7AX4T3J7UTRI.jpg?focal=0%2C0&auth=0e7e2c66d18a2a8f6bac1335d1428eda46e3edd32da339c2f911ee0e608bf1c0&width=1200&height=630",
+        "publishedAt": "2024-11-24T04:01:00Z",
+        "content": "TEMPE, Arizona All is not lost for the No. 14-ranked BYU Cougars after Saturday afternoons devastating 28-23 loss to No. 21 Arizona State in front of 55,400 fans at America First Stadium.\r\nBYU (9-2, … [+4039 chars]"
+      },
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Maegan Vazquez",
+        "title": "Trump taps Brooke Rollins for agriculture secretary, rounding out Cabinet picks - The Washington Post",
+        "description": "Rollins has recently run the America First Policy Institute, which has largely stayed out of the spotlight but has made numerous proposals for the second term.",
+        "url": "https://www.washingtonpost.com/politics/2024/11/23/agriculture-secretary-trump-usda/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IVMKOQIM7TV4G2EMPUPVARTZNU.JPG&w=1440",
+        "publishedAt": "2024-11-24T03:59:17Z",
+        "content": "President-elect Donald Trump announced on Saturday that he has picked Brooke Rollins, a former Trump White House policy adviser, to serve as agriculture secretary.\r\nIt is my Great Honor to nominate B… [+328 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The A.V. Club"
+        },
+        "author": null,
+        "title": "John M. Chu gives Wicked fans permission to bug theaters to turn up the volume - The A.V. Club",
+        "description": "John M. Chu gives Wicked fans permission to bug theaters to turn up the volume",
+        "url": "https://www.avclub.com/jon-m-chu-wicked-volume-theaters-turn-it-up",
+        "urlToImage": "https://img.pastemagazine.com/wp-content/avuploads/2024/11/23213749/chu-wicked-feature.jpg",
+        "publishedAt": "2024-11-24T03:41:00Z",
+        "content": "If you attend a screen of Wicked this weekend and feel like “Defying Gravity” isn’t defying the sound of the theater playing Gladiator 2 next door, it turns out you have an ally in your camp: Directo… [+1795 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Connie Loizos",
+        "title": "How a digital \"you\" can sit through your agonizing web conference calls - TechCrunch",
+        "description": "Now you can appear to be on a Zoom call in your office, even when you’re sipping a margarita in a hammock far, far away. Courtesy of a months-old startup",
+        "url": "https://techcrunch.com/2024/11/23/how-a-digital-you-can-sit-through-your-agonizing-web-conference-calls/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2064007157.jpg?resize=1200,772",
+        "publishedAt": "2024-11-24T02:56:17Z",
+        "content": "Now you can appear to be on a Zoom call in your office, even when youre sipping a margarita in a hammock far, far away. Courtesy of a months-old startup called Pickle, its pitch is simple: submit a f… [+818 chars]"
+      },
+      {
+        "source": {
+          "id": "espn",
+          "name": "ESPN"
+        },
+        "author": "Max Olson",
+        "title": "Deion after KU loss: 'Got intoxicated with success' - ESPN",
+        "description": "After a crushing 37-21 loss at Kansas, Deion Sanders said his Buffaloes \"got intoxicated with the multitude of articles and the assumption that we're this and the assumption that we're that\"",
+        "url": "https://www.espn.com/college-football/story/_/id/42572777/deion-sanders-play-colorado-football-loss-kansas",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F1124%2Fr1418856_1296x729_16%2D9.jpg",
+        "publishedAt": "2024-11-24T02:54:00Z",
+        "content": "KANSAS CITY, Mo. -- Colorado's path to the Big 12 championship game and a potential College Football Playoff bid got much more complicated Saturday after Kansas pulled off a dominant 37-21 win over t… [+4358 chars]"
+      },
+      {
+        "source": {
+          "id": "the-wall-street-journal",
+          "name": "The Wall Street Journal"
+        },
+        "author": "The Wall Street Journal",
+        "title": "U.N. Reaches $300 Billion Climate Financing Deal as Trump Looms - The Wall Street Journal",
+        "description": null,
+        "url": "https://www.wsj.com/world/u-n-reaches-300-billion-climate-financing-deal-as-trump-waits-in-the-wings-656ed18e",
+        "urlToImage": null,
+        "publishedAt": "2024-11-24T02:42:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "cbs-news",
+          "name": "CBS News"
+        },
+        "author": null,
+        "title": "Fred Harris, former Democratic U.S. senator and presidential candidate, dies at 94 - CBS News",
+        "description": "It fell to Fred Harris, chair of the Democratic National Committee in 1969 and 1970, to help heal the party's wounds from the tumultuous national convention in 1968​ when protesters and police clashed in Chicago.",
+        "url": "https://www.cbsnews.com/news/fred-harris-former-democratic-u-s-senator-and-presidential-candidate-dies-at-94/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/11/24/ef7ed9ab-82cd-48a0-9889-e63d3671ea23/thumbnail/1200x630/c605c6571bd34d515936c9e9440c648f/gettyimages-1346515293.jpg?v=b1635869826311f914073798d8df6484",
+        "publishedAt": "2024-11-24T02:42:00Z",
+        "content": "Fred Harris, a former U.S. senator from Oklahoma, presidential hopeful and populist who championed Democratic Party reforms in the turbulent 1960s, died Saturday. He was 94.\r\nHarris' wife, Margaret E… [+7062 chars]"
+      },
+      {
+        "source": {
+          "id": "the-wall-street-journal",
+          "name": "The Wall Street Journal"
+        },
+        "author": "The Wall Street Journal",
+        "title": "A 12-Year-Old’s Journey Into the World of Ozempic - The Wall Street Journal",
+        "description": null,
+        "url": "https://www.wsj.com/health/pharma/ozempic-semaglutide-child-family-decision-528f16ee",
+        "urlToImage": null,
+        "publishedAt": "2024-11-24T02:00:00Z",
+        "content": null
+      }
+    ]
+  }
